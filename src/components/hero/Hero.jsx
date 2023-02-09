@@ -18,6 +18,7 @@ const Hero = () => {
           <span className={styles.border}></span>
           <label>From</label>
           <input type="date" />
+          
         </div>
         <div className={styles.until}>
           <span className={styles.border}></span>

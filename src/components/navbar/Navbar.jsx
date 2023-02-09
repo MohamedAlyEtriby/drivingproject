@@ -29,7 +29,7 @@ const Navbar = () => {
             <AiOutlineSearch size={25} style={{ marginTop: '6px' }} />
           </li>
           <li>
-            <AiOutlineUser size={25} style={{ marginTop: '6px' }} />
+            <AiOutlineUser size={20} style={{ marginTop: '6px' }} />
           </li>
         </ul>
       </nav>
